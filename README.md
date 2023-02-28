@@ -19,11 +19,6 @@ The objective of the game is to avoid collision with the alien by moving the pla
 4. Move the player to the left or right using the arrow keys to avoid collision with the alien.
 5. The game ends when you close the window.
 
-## Screenshots
-
-![screenshot1](screenshot1.png)
-![screenshot2](screenshot2.png)
-
 ## Credits
 
 This game was created by ChatGPT as a learning project.
