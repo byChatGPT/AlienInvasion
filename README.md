@@ -26,7 +26,7 @@ The objective of the game is to avoid collision with the alien by moving the pla
 
 ## Credits
 
-This game was created by [Your Name] as a learning project.
+This game was created by ChatGPT as a learning project.
 
 ## License
 
